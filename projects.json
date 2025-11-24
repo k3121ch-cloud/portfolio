@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "title": "웹 애플리케이션",
+      "description": "모던한 UI/UX를 갖춘 반응형 웹 애플리케이션입니다. 사용자 경험을 최우선으로 고려하여 설계했습니다.",
+      "tags": ["React", "Node.js", "MongoDB"],
+      "link": "https://example.com/project1",
+      "imageColor": "#8b5cf6"
+    },
+    {
+      "title": "모바일 앱",
+      "description": "크로스 플랫폼 모바일 애플리케이션으로 iOS와 Android에서 모두 사용할 수 있습니다.",
+      "tags": ["React Native", "Firebase", "TypeScript"],
+      "link": "https://example.com/project2",
+      "imageColor": "#ec4899"
+    }
+  ]
+}
+
